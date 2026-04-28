@@ -1,0 +1,18 @@
+{
+    "id": 129354729,
+    "name": "Galaxyic raking",
+    "author": "Xed",
+    "creators": [],
+    "verifier": "Xed",
+    "verification": "https://www.youtube.com/watch?v=OgFaC_wSzK8",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

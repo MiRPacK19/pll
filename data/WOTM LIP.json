@@ -1,0 +1,18 @@
+{
+    "id": 128613232,
+    "name": "Wrath of The Machine (LIP SPAM)",
+    "author": "AngoPR",
+    "creators": ["AngoPR, Squeeg"],
+    "verifier": "Dan",
+    "verification": "https://youtu.be/BnSQRlApEko",
+    "percentToQualify": "100",
+    "password": "Lip Spam/CBF",
+    "records": [
+                             {
+        "user": "AngoPR",
+        "link": "https://youtu.be/cwc03gyn5Bs?si=RX7T-wUNoQN1zfvn",
+        "hz": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
+        "percent": 100
+        }
+    ]
+}

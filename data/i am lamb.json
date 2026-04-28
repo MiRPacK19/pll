@@ -1,0 +1,24 @@
+{
+    "id": 124990775,
+    "name": "I Am Lamb",
+    "author": "BLJ_Broken",
+    "creators": ["BLJ_Broken"],
+    "verifier": "BLJ_Broken",
+    "verification": "www.youtube.com/watch?v=WBUYYyzwlfU",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+                {
+            "user": "Sandwich",
+      "link": "https://youtu.be/oUQs623WUgM",
+      "hz": "60",
+      "percent": 100
+        },
+        {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/watch?v=-0PWcCzGg-Y",
+      "hz": "60",
+      "percent": 100
+        }
+    ]
+}
