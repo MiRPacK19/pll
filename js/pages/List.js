@@ -119,36 +119,12 @@ export default {
                     </table>
                 </div>
                     <div v-else-if="selected == null" class="level" style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center;">
-                    <h3>Welcome to the Spam Challenge List!</h3>
+                    <h3>Welcome to the Piluli Demon List!</h3>
                     <p>Click the levels on the left side to see information about them!</p>
                     <p>For more information about the submission rules check the right side!</p>
                     <button class="btn" @click="selected = Math.ceil(Math.random() * list.length)">
                     	<span class="type-label-lg">I'm feeling lucky</span>
 					</button>
-                    <h3>Filter levels:</h3>
-					<form action="#" class="type-label-lg">
-                        <div style="display: flex; align-items: center; gap: 10px;">
-                    	    <select class="btn" v-model="engineSelected" id="method" name="method">
-                        	    <option class="type-label-lg" value="All" selected>Any Method</option>
-                                <option class="type-label-lg" value="Alternating">Alternating</option>
-                                <option class="type-label-lg" value="Jitter">Jitter</option>
-                                <option class="type-label-lg" value='["Altjitter","Alterjitter","Ludwig"]'>Alterjitter/Ludwig</option>
-                                <option class="type-label-lg" value="Rake">Rake</option>
-                                <option class="type-label-lg" value='["G502","G512","K55","K70"]'>Capped Devices</option>
-                                <option class="type-label-lg" value='["Scroll Clicking","Geode Scroll","FlyHec","Lip Spam"]'>Others</option>
-                            </select>
-                    	    <input type="text" class="btn" v-model="fpsSelected" id="fps" name="fps" placeholder="Enter FPS value" autocomplete="off">
-					        <button class="btn" type="submit">Filter!</button>
-                        </div>
-					</form>
-                    <a class="nav__icon" href="https://discord.gg/d47pcnV7Fg">
-                        <img src="../assets/discord.svg" alt="Discord Logo" />
-                    </a>
-                    <p>
-                    	<a href="https://discord.com/invite/d47pcnV7Fg">
-                        	join our discord please
-                        </a>
-                    </p>
                 </div>
             </div>
             <div class="meta-container">
