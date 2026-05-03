@@ -11,7 +11,7 @@ export default {
 
     computed: {
         getUrl() {
-            return "../assets/levels/" + this.name + ".webp";
+            return "../assets/levels/" + this.name + ".png";
         },
     },
 };
