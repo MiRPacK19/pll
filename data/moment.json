@@ -3,10 +3,22 @@
     "name": "moment",
     "author": "lexycat",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://youtu.be/AdfGNxEJOlY",
+    "verifier": "FedkaMedka",
+    "verification": "https://youtu.be/F0Y0Aj7zWsE?si=t_tXZkBJMPfbgigL",
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
+        {
+            "user": "MiRPacK19",
+            "hz": "CBF",
+            "percent": "100",
+            "link": "https://youtu.be/_MgBIZhY13c?si=4bVDGD5FcwyIhiGa"
+        },
+        {
+            "user": "DiNeReN",
+            "hz": "CBF",
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=1JUfGAWldBE"
+        }
     ]
 }
