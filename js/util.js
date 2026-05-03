@@ -59,7 +59,7 @@ function setUpThumbnailStyle(levelName) {
     			if (levelName == "getting kicked out of train") {
                     return `background-image: linear-gradient(rgb(0 0 0 / 0.5), rgb(0 0 0 / 0.5)), url(https://www.amtrak.com/content/dam/projects/dotcom/english/public/images/heros/couple-cafe-window-view.jpg); background-size: cover; background-repeat: no-repeat; background-position: center;`
                 } else {
-                return `background-image: linear-gradient(rgb(0 0 0 / 0.5), rgb(0 0 0 / 0.5)), url("https://therakelist.pages.dev/assets/levels/${encodeURIComponent(levelName)}.png"); background-size: cover; background-repeat: no-repeat; background-position: center;`
+                return `background-image: linear-gradient(rgb(0 0 0 / 0.5), rgb(0 0 0 / 0.5)), url("https://piluli.pages.dev/assets/levels/${encodeURIComponent(levelName)}.png"); background-size: cover; background-repeat: no-repeat; background-position: center;`
 				}
             }
 export function embed(video) {
