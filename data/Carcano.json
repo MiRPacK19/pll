@@ -3,10 +3,16 @@
     "name": "Carcano",
     "author": "Asuith",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=LjoRweGwDeU",
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/dnwU-tkNsOg?si=gIfy7V74sBEj14HH",
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
+        {
+            "user": "FedkaMedka",
+            "hz": "240",
+            "percent": "100",
+            "link": "https://youtu.be/v5PhFQ8qgo0?si=JQQHpMwZ0iTQACis"
+        }
     ]
 }
