@@ -1,12 +1,24 @@
 {
-    "id": 67817078,
+    "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=S0LUa6FkWgo",
+    "verifier": "DiNeReN",
+    "verification": "https://youtu.be/vh_2u-qBdr0?si=x3KX0C-YkxjNtpC1",
     "percentToQualify": 100,
     "password": "Rake (Capped Wooting)/CBF",
     "records": [
+        {
+            "user": "FedkaMedka",
+            "hz": "240",
+            "percent": "100",
+            "link": "https://youtu.be/myKCfb-yAv0?si=-qbv16meanHSFRS4"
+        },
+        {
+            "user": "t1mpzZ",
+            "hz": "CBF",
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=A-QJM4n3dn0"
+        }
     ]
 }
