@@ -150,37 +150,10 @@ export default {
                         Record submission:
                     </h3>
 		    <p>
-                        - Achieved the record without using hacks, CBF and physics bypass are allowed.
+                        basically the Global Demonlist requirements
                     </p>
                     <p>
-                        - The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning. (Under some conditions, roll/rake levels can have actual gameplay, as long as the difficult part is the roll/rake section and the real gameplay isnt overbearing, EX: Nightmare The)
-                    </p>
-                    <p>
-                        - You are allowed to use any methods of spamming, but levels must be beaten with the method/fps they were verified with. (240hz and CBF will be counted as the same thing)
-                    </p>
-                    <p>
-                        - A maximum of 2 inputs are allowed when spamming. Before submitting roll/rake levels/completions be sure that you do not overtap or double click, do not modify your trigger distance from the default setting for rake/roll challenges. DM a list mod for help checking your device.
-                    </p>
-                    <p>
-                        - Uncapped devices have a debounce delay of 10ms or less, levels also do not have a time limit, make them as short or as long as you want.
-                    </p>
-                    <p>
-                        - The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        - Players with mod menus installed MUST have cheat indicator enabled.
-                    </p>
-                    <h3>
-                        Level requirement:
-                    </h3>
-                    <p>
-                        - Levels must not be just 1.0 blocks (Evil Plans, and Evil Piss are exceptions due to historical significance).
-                    </p>
-                    <p>
-			- No consistency challenges.
-                    </p>
-                    <p>
-                        - No length limit.
+                        no vid no did
                     </p>
                 </div>
             </div>
