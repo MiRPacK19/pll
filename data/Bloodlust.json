@@ -1,12 +1,18 @@
 {
-    "id": 128776706,
+    "id": 42584142,
     "name": "Bloodlust",
     "author": "Knobbelboy",
     "creators": [],
     "verifier": "DiNeReN",
-    "verification": "https://www.youtube.com/watch?v=5VsVQdrg9AQ",
+    "verification": "https://www.youtube.com/watch?v=J2qxACdsvOE",
     "percentToQualify": 100,
     "password": "Alterjitter/Ludwig/CBF",
     "records": [
+        {
+            "user": "FedkaMedka",
+            "hz": "CBF",
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=m8h6FnLPtZo"
+        }
     ]
 }
