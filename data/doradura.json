@@ -4,9 +4,15 @@
     "author": "IvashkaUA",
     "creators": [],
     "verifier": "FedkaMedka",
-    "verification": "https://youtu.be/DnxmbYFgfVs?si=tgv54YDZN3NT-_Xn",
+    "verification": "https://youtu.be/x5Sa6K1C3J8?si=k-13b4z6Us41jmYs",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+            "user": "FedkaMedka",
+            "hz": "240",
+            "percent": "100",
+            "link": "https://youtu.be/DnxmbYFgfVs?si=i4WreI_y05fNKkqB"
+        }
     ]
 }
