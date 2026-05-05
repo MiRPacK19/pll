@@ -1,12 +1,30 @@
 {
-    "id": 116316588,
+    "id": 62809982,
     "name": "Thanatophobia",
     "author": "ARtu",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "DiNeReN",
+    "verification": "https://www.youtube.com/watch?v=Ud5U6dZrUO8",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "FedkaMedka",   
+           "link": "https://www.youtube.com/watch?v=VV4kKex7fHk",     
+           "hz": "240",     
+           "percent": 100
+        },
+        {
+           "user": "t1mpzZ",   
+           "link": "https://www.youtube.com/watch?v=vQxX-6BiN7o",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Ladsy",   
+           "link": "https://www.youtube.com/watch?v=tXZf5qz0YyA",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
