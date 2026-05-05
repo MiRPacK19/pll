@@ -1,12 +1,18 @@
 {
-    "id": 116316588,
+    "id": 95764848,
     "name": "Mizureta",
     "author": "dutchiee",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "DiNeReN",
+    "verification": "https://www.youtube.com/watch?v=ej4GXvrx_HA",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "MiRPacK19",   
+           "link": "https://www.youtube.com/watch?v=7k3cP9Vr2sM",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
