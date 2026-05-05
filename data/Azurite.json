@@ -3,10 +3,16 @@
     "name": "Azurite",
     "author": "Sillow",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "MiRPacK19",
+    "verification": "https://www.youtube.com/watch?v=2jj4OYMcAdE",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "FedkaMedka",   
+           "link": "https://www.youtube.com/watch?v=O0jo3sJHYZk",     
+           "hz": "240",     
+           "percent": 100
+        }
     ]
 }
