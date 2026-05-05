@@ -3,10 +3,16 @@
     "name": "Allegiance",
     "author": "nikroplays",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "FedkaMedka",
+    "verification": "https://www.youtube.com/watch?v=rutMNcvl3Hs",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "Ladsy",   
+           "link": "https://www.youtube.com/watch?v=II850WwG_ds",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
