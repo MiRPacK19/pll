@@ -1,12 +1,36 @@
 {
-    "id": 116316588,
+    "id": 87425029,
     "name": "niwa",
     "author": "Teno",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "FedkaMedka",
+    "verification": "https://www.youtube.com/watch?v=BeFZlM9_arM",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "DiNeReN",   
+           "link": "https://www.youtube.com/watch?v=Sd0Y5ylKCa0",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "t1mpzZ",   
+           "link": "https://www.youtube.com/watch?v=88xxFfpKdys",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "MiRPacK19",   
+           "link": "https://www.youtube.com/watch?v=awkreHhSTIY",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Ladsy",   
+           "link": "https://www.youtube.com/watch?v=QVqFk6pKGDQ",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
