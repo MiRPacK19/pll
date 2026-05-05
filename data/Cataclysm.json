@@ -1,12 +1,30 @@
 {
-    "id": 116316588,
+    "id": 3979721,
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": [],
-    "verifier": "Potom",
-    "verification": "https://www.youtube.com/watch?v=UjxY09qutKE&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "verifier": "DiNeReN",
+    "verification": "https://www.youtube.com/watch?v=4pU-3nl10Ak",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+        {
+           "user": "FedkaMedka",   
+           "link": "https://www.youtube.com/watch?v=vkMTXJyk0vg",     
+           "hz": "240",     
+           "percent": 100
+        },
+        {
+           "user": "t1mpzZ",   
+           "link": "https://www.youtube.com/watch?v=vUhLqhC3jGk",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Ladsy",   
+           "link": "https://www.youtube.com/watch?v=FAL6KRqClCY",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
