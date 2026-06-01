@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/Ludwig/Altjitter/60FPS",
     "records": [
+        {
+           "user": "Fing",   
+           "link": "https://www.youtube.com/watch?v=jKjx7PhWJg0",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
